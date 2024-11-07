@@ -36,7 +36,7 @@
 **Capturas**:
 1. Gráfico de lanzamientos por año mostrando tendencias a lo largo del tiempo. ![Captura](capturas_espaciales/captura(1).png)
 2. Análisis del costo de las misiones espaciales por año. ![Captura](capturas_espaciales/captura(3).png)
-3. Visualización de los meses más populares para lanzamientos. ![Captura](capturas_espaciales/captura(5).png)
+3. Visualización de los meses más populares para lanzamientos. ![Captura](capturas_espaciales/captura(5.0).png)
 4. Análisis de la seguridad de las misiones con el tiempo. ![Captura](capturas_espaciales/captura(6).png)
 
 ---
@@ -49,9 +49,9 @@
 - Visualización de datos para identificar patrones.
 
 **Capturas**:
-1. Código de limpieza de datos y preparación para el análisis. ![Captura](capturas_amazon/captura(1).png)
-2. Gráfico mostrando el precio promedio de los aires acondicionados y las categorías con los productos de precios más altos. ![Captura](capturas_amazon/captura(3).png)
-3. Gráfico de correlación entre precio y calificación de los productos. ![Captura](capturas_amazon/captura(5).png)
+1. Código de limpieza de datos y preparación para el análisis. ![Captura](capturas_amazon/captura(0).png)
+2. Gráfico mostrando el precio promedio de los aires acondicionados y las categorías con los productos de precios más altos. ![Captura](capturas_amazon/captura_grafico(2).png)
+3. Gráfico de correlación entre precio y calificación de los productos. ![Captura](capturas_amazon/captura_powerbi(3).png)
 
 ---
 
@@ -63,8 +63,8 @@
 - Automatización con Python.
 
 **Capturas**:
-1. Ejemplo de consultas SQL realizadas sobre la base de datos de ventas. ![Captura](sqlite/captura(1).png)
-2. Visualización de resultados clave obtenidos a partir de las consultas. ![Captura](sqlite/captura(2).png)
+1. Ejemplo de consultas SQL realizadas sobre la base de datos de ventas. ![Captura](sqlite/captura_sqlite(0).png)
+2. Visualización de resultados clave obtenidos a partir de las consultas. ![Captura](sqlite/captura_sqlite(2).png)
 
 ---
 
@@ -76,8 +76,8 @@
 - Análisis visual de datos para apoyar la toma de decisiones.
 
 **Capturas**:
-1. Gráfico general mostrando la distribución de empleados por región. ![Captura](captura_PowerBI/captura(1).png)
-2. Visualización del desglose de empleados según el tipo de jornada. ![Captura](captura_PowerBI/captura(2).png)
-3. Análisis de la distribución de empleados por nivel educativo. ![Captura](captura_PowerBI/captura(3).png)
-4. Dashboard general de Power BI con todos los elementos integrados. ![Captura](captura_PowerBI/captura(4).png)
+1. Gráfico general mostrando la distribución de empleados por región. ![Captura](captura_PowerBI/powerbi(0).png)
+2. Visualización del desglose de empleados según el tipo de jornada. ![Captura](captura_PowerBI/powerbi(1).png)
+3. Análisis de la distribución de empleados por nivel educativo. ![Captura](captura_PowerBI/powerbi(2).png)
+
 
