@@ -19,9 +19,10 @@
 - Eliminación de columnas irrelevantes y transformación de tipos de datos.
 
 **Capturas**:
-1. Vista general del dataset de Netflix mostrando la limpieza de datos y los valores eliminados.
-2. Proceso de conversión de tipos de datos y manipulación de columnas.
-3. Visualización del resultado final del análisis.
+1. Vista general del dataset de Netflix mostrando la limpieza de datos y los valores eliminados. ![Captura](capturas_netflix/Portafolio(0).png)
+2. Proceso de conversión de tipos de datos y manipulación de columnas. ![Captura](capturas_netflix/portafolio(2).png)
+3. Visualización del resultado final del análisis. ![Captura](capturas_netflix/portafolio(6).png)
+4. Exploración de categorías de contenido. ![Captura](capturas_netflix/portafolio(7).png)
 
 ---
 
@@ -30,13 +31,13 @@
 
 **Habilidades Demostradas**:
 - Análisis de tendencias históricas.
-- Visualización de datos para análisis de costos y seguridad.
+- Visualización de datos para identificar patrones.
 
 **Capturas**:
-1. Gráfico de lanzamientos por año mostrando tendencias a lo largo del tiempo.
-2. Análisis del costo de las misiones espaciales por año.
-3. Visualización de los meses más populares para lanzamientos.
-4. Análisis de la seguridad de las misiones con el tiempo.
+1. Gráfico de lanzamientos por año mostrando tendencias a lo largo del tiempo. ![Captura](capturas_espaciales/captura(1).png)
+2. Análisis del costo de las misiones espaciales por año. ![Captura](capturas_espaciales/captura(3).png)
+3. Visualización de los meses más populares para lanzamientos. ![Captura](capturas_espaciales/captura(5).png)
+4. Análisis de la seguridad de las misiones con el tiempo. ![Captura](capturas_espaciales/captura(6).png)
 
 ---
 
@@ -48,11 +49,9 @@
 - Visualización de datos para identificar patrones.
 
 **Capturas**:
-1. Código de limpieza de datos y preparación para el análisis.
-2. Gráfico mostrando el precio promedio de los aires acondicionados.
-3. Visualización de las categorías con los productos de precios más altos.
-4. Gráfico de correlación entre precio y calificación de los productos.
-5. Rango de precios por subcategoría.
+1. Código de limpieza de datos y preparación para el análisis. ![Captura](capturas_amazon/captura(1).png)
+2. Gráfico mostrando el precio promedio de los aires acondicionados y las categorías con los productos de precios más altos. ![Captura](capturas_amazon/captura(3).png)
+3. Gráfico de correlación entre precio y calificación de los productos. ![Captura](capturas_amazon/captura(5).png)
 
 ---
 
@@ -61,11 +60,11 @@
 
 **Habilidades Demostradas**:
 - Consultas SQL avanzadas.
-- Extracción y análisis de datos.
+- Automatización con Python.
 
 **Capturas**:
-1. Ejemplo de consultas SQL realizadas sobre la base de datos de ventas.
-2. Visualización de resultados clave obtenidos a partir de las consultas.
+1. Ejemplo de consultas SQL realizadas sobre la base de datos de ventas. ![Captura](sqlite/captura(1).png)
+2. Visualización de resultados clave obtenidos a partir de las consultas. ![Captura](sqlite/captura(2).png)
 
 ---
 
@@ -73,11 +72,12 @@
 **Descripción**: Este proyecto se centró en el análisis de los datos de recursos humanos utilizando Power BI para visualizar características clave de los empleados, como su distribución por región, género, educación y tipo de jornada. Se buscó facilitar la comprensión de los datos y tomar decisiones basadas en la información visualizada.
 
 **Habilidades Demostradas**:
-- Creación de dashboards en Power BI.
-- Visualización interactiva para facilitar el análisis de datos.
+- Creación de dashboards interactivos.
+- Análisis visual de datos para apoyar la toma de decisiones.
 
 **Capturas**:
-1. Gráfico general mostrando la distribución de empleados por región.
-2. Visualización del desglose de empleados según el tipo de jornada.
-3. Análisis de la distribución de empleados por nivel educativo.
-4. Dashboard general de Power BI con todos los elementos integrados.
+1. Gráfico general mostrando la distribución de empleados por región. ![Captura](captura_PowerBI/captura(1).png)
+2. Visualización del desglose de empleados según el tipo de jornada. ![Captura](captura_PowerBI/captura(2).png)
+3. Análisis de la distribución de empleados por nivel educativo. ![Captura](captura_PowerBI/captura(3).png)
+4. Dashboard general de Power BI con todos los elementos integrados. ![Captura](captura_PowerBI/captura(4).png)
+
