@@ -19,10 +19,10 @@
 - Eliminación de columnas irrelevantes y transformación de tipos de datos.
 
 **Capturas**:
-1. Vista general del dataset de Netflix mostrando la limpieza de datos y los valores eliminados. ![Captura](capturas_netflix/Portafolio(0).png)
-2. Proceso de conversión de tipos de datos y manipulación de columnas. ![Captura](capturas_netflix/portafolio(2).png)
-3. Visualización del resultado final del análisis. ![Captura](capturas_netflix/portafolio(6).png)
-4. Exploración de categorías de contenido. ![Captura](capturas_netflix/portafolio(7).png)
+1. **Vista general del dataset de Netflix antes de cualquier modificación**: Muestra el estado inicial del dataset, incluyendo columnas y algunas filas. Esto es importante para entender el punto de partida antes de las modificaciones. ![Captura](capturas_netflix/Portafolio(0).png)
+2. **Conteo de valores nulos por columna**: Identificación de valores faltantes en el dataset, un paso crucial para la limpieza de datos. Esto ayuda a determinar qué columnas necesitan tratamiento especial. ![Captura](capturas_netflix/portafoilio(1).png)
+3. **Eliminación de columnas innecesarias y tipos de datos de cada columna**: Visualización de la eliminación de la columna `show_id` y revisión de los tipos de datos para asegurar que están preparados para el análisis. ![Captura](capturas_netflix/portafolio(2).png)
+4. **Resultado del DataFrame después de las modificaciones**: Muestra el dataset después de haber eliminado columnas irrelevantes y haber transformado los tipos de datos, mostrando un ejemplo del dataset ya limpio y listo para el análisis. ![Captura](capturas_netflix/portafolio(6).png)
 
 ---
 
