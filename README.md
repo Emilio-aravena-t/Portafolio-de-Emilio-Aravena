@@ -27,6 +27,7 @@
 ---
 
 ### 2. Análisis de Misiones Espaciales
+
 **Descripción**: Este proyecto analiza los datos de lanzamientos espaciales, observando la evolución de los lanzamientos a lo largo de los años, el costo de las misiones, los meses más populares para los lanzamientos y la seguridad de las misiones. Se buscó identificar tendencias y patrones a lo largo del tiempo.
 
 **Habilidades Demostradas**:
@@ -34,10 +35,11 @@
 - Visualización de datos para identificar patrones.
 
 **Capturas**:
-1. Gráfico de lanzamientos por año mostrando tendencias a lo largo del tiempo. ![Captura](capturas_espaciales/captura(1).png)
-2. Análisis del costo de las misiones espaciales por año. ![Captura](capturas_espaciales/captura(3).png)
-3. Visualización de los meses más populares para lanzamientos. ![Captura](capturas_espaciales/captura(5.0).png)
-4. Análisis de la seguridad de las misiones con el tiempo. ![Captura](capturas_espaciales/captura(6).png)
+1. **Gráfico de lanzamientos por año mostrando tendencias a lo largo del tiempo**: ![Captura](capturas_espaciales/captura(12.1).png)
+2. **Análisis del costo de las misiones espaciales por año**: ![Captura](capturas_espaciales/captura(10).png)
+3. **Visualización de los meses más populares para lanzamientos**: ![Captura](capturas_espaciales/captura(11).png)
+4. **Análisis de la seguridad de las misiones con el tiempo**: ![Captura](capturas_espaciales/captura(11.1).png)
+
 
 ---
 
