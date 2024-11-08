@@ -26,19 +26,21 @@
 
 ---
 
-### 2. Análisis de Misiones Espaciales
+### 2. Análisis del Costo de las Misiones Espaciales
 
-**Descripción**: Este proyecto analiza los datos de lanzamientos espaciales, observando la evolución de los lanzamientos a lo largo de los años, el costo de las misiones, los meses más populares para los lanzamientos y la seguridad de las misiones. Se buscó identificar tendencias y patrones a lo largo del tiempo.
+**Descripción**: Este proyecto analiza el costo y el fracaso de las misiones espaciales a lo largo del tiempo. Se identificaron patrones y tendencias, como la tasa de fracasos y la evolución del costo promedio por misión. Además, se determinó la popularidad de los lanzamientos según el mes del año.
 
 **Habilidades Demostradas**:
-- Análisis de tendencias históricas.
-- Visualización de datos para identificar patrones.
+- Análisis de tendencias de costos y fracasos en misiones espaciales.
+- Visualización de datos temporales y categóricos.
+- Interpretación de patrones estacionales en los lanzamientos espaciales.
 
 **Capturas**:
-1. **Gráfico de lanzamientos por año mostrando tendencias a lo largo del tiempo**: ![Captura](capturas_espaciales/captura(12.1).png)
-2. **Análisis del costo de las misiones espaciales por año**: ![Captura](capturas_espaciales/captura(10).png)
-3. **Visualización de los meses más populares para lanzamientos**: ![Captura](capturas_espaciales/captura(11).png)
-4. **Análisis de la seguridad de las misiones con el tiempo**: ![Captura](capturas_espaciales/captura(11.1).png)
+1. **Tasa de fracaso de misiones espaciales a lo largo del tiempo**: Muestra la cantidad de misiones que fracasaron por año, destacando patrones y tendencias. ![Captura](capturas_misiones_espaciales/captura(7).png)
+2. **Evolución del costo promedio de las misiones espaciales por año**: Visualiza cómo el costo promedio de las misiones espaciales ha cambiado a lo largo de los años. ![Captura](capturas_misiones_espaciales/captura(11).png)
+3. **Meses más populares para los lanzamientos**: Este gráfico de barras muestra los meses con mayor número de lanzamientos espaciales, identificando los meses con más actividad. ![Captura](capturas_misiones_espaciales/captura(9).png)
+4. **Popularidad de los lanzamientos por mes**: Gráfico que muestra la popularidad de los lanzamientos por mes, permitiendo identificar patrones estacionales. ![Captura](capturas_misiones_espaciales/captura(12).png)
+
 
 
 ---
