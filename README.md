@@ -12,7 +12,7 @@
 ## Proyectos
 
 ### 1. Análisis de Datos de Netflix
-**Descripción**: Este proyecto se enfoca en la limpieza y el análisis de un dataset de Netflix, donde se han identificado y manejado valores nulos, se eliminaron columnas innecesarias y se realizaron transformaciones en los datos para facilitar el análisis. También se analizaron las categorías de contenido, entre otros aspectos.
+**Descripción**: Este proyecto se enfoca en la limpieza y el análisis de un dataset de Netflix, donde se han identificado y manejado valores nulos, se eliminaron columnas innecesarias y se realizaron transformaciones en los datos para facilitar el análisis. También se analizaron las categorías de contenido, entre otros aspectos, utilizando Python y la librería pandas para la manipulación de datos.
 
 **Habilidades Demostradas**:
 - Limpieza y manejo de datos nulos.
@@ -27,8 +27,7 @@
 ---
 
 ### 2. Análisis del Costo de las Misiones Espaciales
-
-**Descripción**: Este proyecto analiza el costo y el fracaso de las misiones espaciales a lo largo del tiempo. Se identificaron patrones y tendencias, como la tasa de fracasos y la evolución del costo promedio por misión. Además, se determinó la popularidad de los lanzamientos según el mes del año.
+**Descripción**: Este proyecto analiza el costo y el fracaso de las misiones espaciales a lo largo del tiempo. Se identificaron patrones y tendencias, como la tasa de fracasos y la evolución del costo promedio por misión. Además, se determinó la popularidad de los lanzamientos según el mes del año. Para este análisis se utilizaron Python, pandas y matplotlib para la visualización de datos.
 
 **Habilidades Demostradas**:
 - Análisis de tendencias de costos y fracasos en misiones espaciales.
@@ -46,7 +45,7 @@
 ---
 
 ### 3. Visualización de Datos de Amazon
-**Descripción**: En este proyecto se analizan los datos de productos de Amazon, enfocándose en las categorías con los precios más altos, la correlación entre precio y calificación, y el rango de precios por subcategoría. El objetivo es presentar la información de manera clara a través de gráficos y análisis detallado.
+**Descripción**: En este proyecto se analizan los datos de productos de Amazon, enfocándose en las categorías con los precios más altos, la correlación entre precio y calificación, y el rango de precios por subcategoría. El objetivo es presentar la información de manera clara a través de gráficos y análisis detallado, utilizando Python, pandas, y seaborn para la visualización de datos.
 
 **Habilidades Demostradas**:
 - Análisis exploratorio de datos.
@@ -60,7 +59,7 @@
 ---
 
 ### 4. Análisis de Ventas con SQLite
-**Descripción**: Este proyecto se basa en la manipulación y análisis de datos de ventas utilizando SQLite. Se ejecutaron consultas SQL para extraer información clave sobre ventas, productos y clientes. Los resultados se presentaron de forma estructurada para facilitar su comprensión.
+**Descripción**: Este proyecto se basa en la manipulación y análisis de datos de ventas utilizando SQLite. Se ejecutaron consultas SQL para extraer información clave sobre ventas, productos y clientes. Los resultados se presentaron de forma estructurada para facilitar su comprensión. Además, se utilizó Python para la automatización y visualización de resultados.
 
 **Habilidades Demostradas**:
 - Consultas SQL avanzadas.
@@ -74,7 +73,7 @@
 ---
 
 ### 5. Análisis de Recursos Humanos
-**Descripción**: Este proyecto presenta el análisis de recursos humanos de una empresa, centrándose en la distribución de empleados según diferentes características como la región, el nivel educativo y el tipo de jornada laboral.
+**Descripción**: Este proyecto presenta el análisis de recursos humanos de una empresa, centrándose en la distribución de empleados según diferentes características como la región, el nivel educativo y el tipo de jornada laboral. Para la visualización de los datos se utilizó Power BI, permitiendo una interpretación interactiva y clara de la información.
 
 **Habilidades Demostradas**:
 - Análisis de recursos humanos utilizando gráficos interactivos.
