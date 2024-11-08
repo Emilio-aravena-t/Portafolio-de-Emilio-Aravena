@@ -36,10 +36,10 @@
 - Interpretación de patrones estacionales en los lanzamientos espaciales.
 
 **Capturas**:
-1. **Tasa de fracaso de misiones espaciales a lo largo del tiempo**: Muestra la cantidad de misiones que fracasaron por año, destacando patrones y tendencias. ![Captura](capturas_espaciales/captura(7).png)
-2. **Evolución del costo promedio de las misiones espaciales por año**: Visualiza cómo el costo promedio de las misiones espaciales ha cambiado a lo largo de los años. ![Captura](capturas_espaciales/captura(11).png)
-3. **Meses más populares para los lanzamientos**: Este gráfico de barras muestra los meses con mayor número de lanzamientos espaciales, identificando los meses con más actividad. ![Captura](capturas_espaciales/captura(9).png)
-4. **Popularidad de los lanzamientos por mes**: Gráfico que muestra la popularidad de los lanzamientos por mes, permitiendo identificar patrones estacionales. ![Captura](capturas_espaciales/captura(12).png)
+1. **Tasa de fracaso de misiones espaciales a lo largo del tiempo**: Muestra la cantidad de misiones que fracasaron por año, destacando patrones y tendencias. ![Captura](capturas_espaciales/captura(12.1).png)
+2. **Evolución del costo promedio de las misiones espaciales por año**: Visualiza cómo el costo promedio de las misiones espaciales ha cambiado a lo largo de los años. ![Captura](capturas_espaciales/captura(8).png)
+3. **Meses más populares para los lanzamientos**: Este gráfico de barras muestra los meses con mayor número de lanzamientos espaciales, identificando los meses con más actividad. ![Captura](capturas_espaciales/caputra(7.1).png)
+4. **Popularidad de los lanzamientos por mes**: Gráfico que muestra la popularidad de los lanzamientos por mes, permitiendo identificar patrones estacionales. ![Captura](capturas_espaciales/captura(11.1).png)
 
 
 
