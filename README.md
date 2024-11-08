@@ -84,7 +84,7 @@
 1. **Gráfico general mostrando la distribución de empleados por región**: Visualización de la distribución de empleados de diferentes regiones, sin aplicar ningún filtro.  
    ![Captura](captura_PowerBI/powerbi(0).png)
 
-2. **Visualización del desglose de empleados según el tipo de jornada**: Representa el desglose de empleados según la jornada laboral que tienen, ya sea presencial, remota o combinada.
+2. **Visualización del desglose de empleados según el tipo de jornada**: Representa el desglose de empleados según la jornada laboral que tienen, ya sea presencial, remota o combinada. 
    ![Captura](captura_PowerBI/powerbi(1).png)
 
 3. **Análisis de la distribución de empleados por nivel educativo**: Muestra cómo se distribuyen los empleados según su nivel de educación (pregrado, grado, posgrado), con el filtro aplicado al departamento de Recursos Humanos.
