@@ -53,9 +53,9 @@
 - Visualización de datos para identificar patrones.
 
 **Capturas**:
-1. Código de limpieza de datos y preparación para el análisis. ![Captura](capturas_amazon/captura(0).png)
-2. Gráfico mostrando el precio promedio de los aires acondicionados y las categorías con los productos de precios más altos. ![Captura](capturas_amazon/captura_grafico(2).png)
-3. Gráfico de correlación entre precio y calificación de los productos. ![Captura](capturas_amazon/captura_powerbi(3).png)
+1. Código de limpieza de datos y preparación para el análisis: Limpieza y preparación de datos de Amazon para el análisis. ![Captura](capturas_amazon/captura(0).png)
+2. Gráfico mostrando el precio promedio de los aires acondicionados y las categorías con los productos de precios más altos: Visualiza las categorías con productos de precios elevados. ![Captura](capturas_amazon/captura_grafico(2).png)
+3. Gráfico de correlación entre precio y calificación de los productos: Muestra la relación entre el precio y la calificación de los productos. ![Captura](capturas_amazon/captura_powerbi(3).png)
 
 ---
 
