@@ -53,9 +53,9 @@
 - Visualización de datos para identificar patrones.
 
 **Capturas**:
-1. Código de limpieza de datos y preparación para el análisis: Limpieza y preparación de datos de Amazon para el análisis. ![Captura](capturas_amazon/captura(0).png)
-2. Gráfico mostrando el precio promedio de los aires acondicionados y las categorías con los productos de precios más altos: Visualiza las categorías con productos de precios elevados. ![Captura](capturas_amazon/captura_grafico(2).png)
-3. Gráfico de correlación entre precio y calificación de los productos: Muestra la relación entre el precio y la calificación de los productos. ![Captura](capturas_amazon/captura_powerbi(3).png)
+1. **Código de limpieza de datos y preparación para el análisis**: Limpieza y preparación de datos de Amazon para el análisis. ![Captura](capturas_amazon/captura(0).png)
+2. **Gráfico mostrando el precio promedio de los aires acondicionados y las categorías con los productos de precios más altos**: Visualiza las categorías con productos de precios elevados. ![Captura](capturas_amazon/captura_grafico(2).png)
+3. **Gráfico de correlación entre precio y calificación de los productos**: Muestra la relación entre el precio y la calificación de los productos. ![Captura](capturas_amazon/captura_powerbi(3).png)
 
 ---
 
@@ -67,9 +67,9 @@
 - Automatización con Python.
 
 **Capturas**:
-1. Creación de tablas en la base de datos de ventas**: Definición de las tablas `productos`, `clientes`, `pedidos` y `ventas` para estructurar la base de datos. ![Captura](sqlite/captura_sqlite(0).png)
-2. Visualización de resultados clave obtenidos a partir de las consultas: Ejecución de una consulta SQL que muestra los clientes por categoría y su total de compras, ordenados por el valor comprado. ![Captura](sqlite/captura_sqlite(3).png)
-3. Análisis detallado de ventas por categoría de producto: Código Python para conectar con la base de datos y visualizar las ventas mensuales por categoría. ![Captura](sqlite/captura_sqlite(5).png)
+1. **Creación de tablas en la base de datos de ventas**: Definición de las tablas `productos`, `clientes`, `pedidos` y `ventas` para estructurar la base de datos. ![Captura](sqlite/captura_sqlite(0).png)
+2. **Visualización de resultados clave obtenidos a partir de las consultas**: Ejecución de una consulta SQL que muestra los clientes por categoría y su total de compras, ordenados por el valor comprado. ![Captura](sqlite/captura_sqlite(3).png)
+3. **Análisis detallado de ventas por categoría de producto**: Código Python para conectar con la base de datos y visualizar las ventas mensuales por categoría. ![Captura](sqlite/captura_sqlite(5).png)
 
 ---
 
