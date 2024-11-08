@@ -73,16 +73,22 @@
 
 ---
 
-### 5. Análisis de Recursos Humanos con Power BI
-**Descripción**: Este proyecto se centró en el análisis de los datos de recursos humanos utilizando Power BI para visualizar características clave de los empleados, como su distribución por región, género, educación y tipo de jornada. Se buscó facilitar la comprensión de los datos y tomar decisiones basadas en la información visualizada.
+### 5. Análisis de Recursos Humanos
+**Descripción**: Este proyecto presenta el análisis de recursos humanos de una empresa, centrándose en la distribución de empleados según diferentes características como la región, el nivel educativo y el tipo de jornada laboral.
 
 **Habilidades Demostradas**:
-- Creación de dashboards interactivos.
-- Análisis visual de datos para apoyar la toma de decisiones.
+- Análisis de recursos humanos utilizando gráficos interactivos.
+- Visualización de datos para la toma de decisiones en gestión de personal.
 
 **Capturas**:
-1. Gráfico general mostrando la distribución de empleados por región. ![Captura](captura_PowerBI/powerbi(0).png)
-2. Visualización del desglose de empleados según el tipo de jornada. ![Captura](captura_PowerBI/powerbi(1).png)
-3. Análisis de la distribución de empleados por nivel educativo. ![Captura](captura_PowerBI/powerbi(2).png)
+1. **Gráfico general mostrando la distribución de empleados por región**: Visualización de la distribución de empleados de diferentes regiones, sin aplicar ningún filtro.  
+   ![Captura](captura_PowerBI/powerbi(0).png)
+
+2. **Visualización del desglose de empleados según el tipo de jornada**: Representa el desglose de empleados según la jornada laboral que tienen, ya sea presencial, remota o combinada.
+   ![Captura](captura_PowerBI/powerbi(1).png)
+
+3. **Análisis de la distribución de empleados por nivel educativo**: Muestra cómo se distribuyen los empleados según su nivel de educación (pregrado, grado, posgrado), con el filtro aplicado al departamento de Recursos Humanos.
+   ![Captura](captura_PowerBI/powerbi(2).png)
+
 
 
