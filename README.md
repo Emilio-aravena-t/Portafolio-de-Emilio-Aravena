@@ -1,7 +1,7 @@
 # Portafolio de Proyectos de Análisis de Datos
 
 ## Sobre Mí
-¡Hola! Soy Emilio Andrés Torres Aravena, con experiencia en análisis de datos. Me apasiona trabajar con datos y extraer insights valiosos para la toma de decisiones. En este portafolio, muestro algunos proyectos en los que he trabajado, aplicando herramientas como Python, SQLite, Power BI, y más. Estos proyectos incluyen análisis de datos, visualización de datos, limpieza y transformación de datos, y automatización de datos.
+¡Hola! Soy Emilio Andrés Torres Aravena, con experiencia en análisis de datos. Me apasiona trabajar con datos y extraer insights valiosos para la toma de decisiones. En este portafolio, muestro algunos proyectos en los que he trabajado, aplicando herramientas como Python, SQLite, Power BI, y más. Estos proyectos incluyen análisis de datos, visualización de datos, limpieza y transformación de datos, y automatización de datos. Los datasets utilizados provienen de Kaggle.
 
 ## Habilidades Técnicas
 - **Lenguajes de Programación**: Python, SQL.
