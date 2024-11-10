@@ -46,6 +46,7 @@
 
 ### 3. Visualización de Datos de Amazon
 **Descripción**: En este proyecto se analizan los datos de productos de Amazon, enfocándose en las categorías con los precios más altos, la correlación entre precio y calificación, y el rango de precios por subcategoría. El objetivo es presentar la información de manera clara a través de gráficos y análisis detallado, utilizando Python, pandas, seaborn, y Power BI para la visualización y análisis de datos.
+
 **Habilidades Demostradas**:
 - Análisis exploratorio de datos.
 - Visualización de datos para identificar patrones.
