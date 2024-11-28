@@ -25,12 +25,10 @@ Hello! I am Emilio Andrés Torres Aravena, an experienced data analyst passionat
 **Screenshots**:  
 1. **Initial view of the Netflix dataset before modifications**: Displays the initial state of the dataset, including columns and some rows, to understand the starting point.  
    ![Screenshot](capturas_netflix/Portafolio(0).png)  
-2. **Count of missing values per column**: Highlights missing data in the dataset, a crucial step for cleaning.  
-   ![Screenshot](capturas_netflix/portafoilio(1).png)  
-3. **Removed unnecessary columns and verified data types**: Shows the cleaned dataset after dropping irrelevant columns and ensuring correct data types.  
-   ![Screenshot](capturas_netflix/portafolio(2).png)  
-4. **Final cleaned DataFrame**: Dataset ready for analysis after cleaning and transformation.  
-   ![Screenshot](capturas_netflix/portafolio(6).png)  
+
+2. **Final Visualization of Genre Distribution**: A bar chart showcasing the distribution of genres on Netflix, summarizing the most popular categories for strategic insights.  
+   ![Screenshot](capturas_netflix/Netflix_captura.png)  
+
 
 ---
 
