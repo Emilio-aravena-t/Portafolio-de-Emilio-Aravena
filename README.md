@@ -37,20 +37,26 @@ Hello! I am Emilio Andrés Torres Aravena, an experienced data analyst passionat
 ---
 
 ### **2. Cost Analysis of Space Missions**  
-**Description**: This project examines the cost and failure rates of space missions over time, identifying trends such as failure rates and average mission costs. It also analyzes the popularity of launches by month. Python, pandas, and matplotlib were used for analysis and visualization.  
+**Description**: This project examines the cost and failure rates of space missions over time, identifying trends such as failure rates, average mission costs, and the popularity of launches by year. Data cleaning, transformation, and visualization were performed using Python, pandas, and matplotlib.  
 
 **Skills Demonstrated**:  
 - Cost and failure trend analysis in space missions.  
+- Data cleaning and handling missing values.  
 - Temporal and categorical data visualization.  
-- Interpretation of seasonal patterns in space launches.  
+- Interpretation of trends and seasonal patterns in space launches.  
 
 **Screenshots**:  
-1. **Failure rates over time**: Displays the annual failure rates of space missions, highlighting patterns and trends.  
-   ![Screenshot](capturas_espaciales/captura(12.1).png)  
-2. **Average mission cost over time**: Shows the evolution of average mission costs over the years.  
-   ![Screenshot](capturas_espaciales/captura(8).png)  
-3. **Popular months for launches**: Bar chart identifying months with the highest number of space launches.  
-   ![Screenshot](capturas_espaciales/caputra(7.1).png)  
+1. **Inspecting the dataset**: Shows the initial state of the dataset, including column structure and sample rows.  
+   ![Screenshot](capturas_espaciales/captura(1).png)  
+2. **Handling missing values**: Displays the process of identifying and replacing missing values with the median.  
+   ![Screenshot](capturas_espaciales/captura(2).png)  
+3. **Number of launches per year**: A bar chart showing the number of space launches per year.  
+   ![Screenshot](capturas_espaciales/captura(3).png)  
+4. **Average mission cost over time**: A line chart showing the evolution of average mission costs over the years.  
+   ![Screenshot](capturas_espaciales/captura(4).png)  
+5. **Failure rates over time**: A line chart displaying the annual failure rates of space missions, highlighting patterns and trends.  
+   ![Screenshot](capturas_espaciales/captura(5).png)  
+
 
 ---
 
