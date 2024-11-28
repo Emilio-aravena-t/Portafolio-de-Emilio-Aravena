@@ -1,93 +1,105 @@
-# Portafolio de Proyectos de Análisis de Datos
+# **Data Analysis Project Portfolio**
 
-## Sobre Mí
-¡Hola! Soy Emilio Andrés Torres Aravena, con experiencia en análisis de datos. Me apasiona trabajar con datos y extraer insights valiosos para la toma de decisiones. En este portafolio, muestro algunos proyectos en los que he trabajado, aplicando herramientas como Python, SQLite, Power BI, y más. Estos proyectos incluyen análisis de datos, visualización de datos, limpieza y transformación de datos, y automatización de datos. Los datasets utilizados provienen de Kaggle.
-
-## Habilidades Técnicas
-- **Lenguajes de Programación**: Python, SQL.
-- **Bases de Datos**: SQL, SQLite.
-- **Herramientas de Visualización**: Power BI, Matplotlib.
-- **Librerías Python**: sqlite3, pandas, matplotlib.pyplot.
-
-## Proyectos
-
-### 1. Análisis de Datos de Netflix
-**Descripción**: Este proyecto se enfoca en la limpieza y el análisis de un dataset de Netflix, donde se han identificado y manejado valores nulos, se eliminaron columnas innecesarias y se realizaron transformaciones en los datos para facilitar el análisis. También se analizaron las categorías de contenido, entre otros aspectos, utilizando Python y la librería pandas para la manipulación de datos.
-
-**Habilidades Demostradas**:
-- Limpieza y manejo de datos nulos.
-- Eliminación de columnas irrelevantes y transformación de tipos de datos.
-
-**Capturas**:
-1. **Vista general del dataset de Netflix antes de cualquier modificación**: Muestra el estado inicial del dataset, incluyendo columnas y algunas filas. Esto es importante para entender el punto de partida antes de las modificaciones. ![Captura](capturas_netflix/Portafolio(0).png)
-2. **Conteo de valores nulos por columna**: Identificación de valores faltantes en el dataset, un paso crucial para la limpieza de datos. Esto ayuda a determinar qué columnas necesitan tratamiento especial. ![Captura](capturas_netflix/portafoilio(1).png)
-3. **Eliminación de columnas innecesarias y tipos de datos de cada columna**: Visualización de la eliminación de la columna `show_id` y revisión de los tipos de datos para asegurar que están preparados para el análisis. ![Captura](capturas_netflix/portafolio(2).png)
-4. **Resultado del DataFrame después de las modificaciones**: Muestra el dataset después de haber eliminado columnas irrelevantes y haber transformado los tipos de datos, mostrando un ejemplo del dataset ya limpio y listo para el análisis. ![Captura](capturas_netflix/portafolio(6).png)
+## **About Me**  
+Hello! I am Emilio Andrés Torres Aravena, an experienced data analyst passionate about working with data and extracting valuable insights for decision-making. In this portfolio, I showcase some of the projects I have worked on, applying tools such as Python, SQLite, Power BI, and more. These projects include data analysis, data visualization, data cleaning and transformation, and data automation. The datasets used are sourced from Kaggle.
 
 ---
 
-### 2. Análisis del Costo de las Misiones Espaciales
-**Descripción**: Este proyecto analiza el costo y el fracaso de las misiones espaciales a lo largo del tiempo. Se identificaron patrones y tendencias, como la tasa de fracasos y la evolución del costo promedio por misión. Además, se determinó la popularidad de los lanzamientos según el mes del año. Para este análisis se utilizaron Python, pandas y matplotlib para la visualización de datos.
-
-**Habilidades Demostradas**:
-- Análisis de tendencias de costos y fracasos en misiones espaciales.
-- Visualización de datos temporales y categóricos.
-- Interpretación de patrones estacionales en los lanzamientos espaciales.
-
-**Capturas**:
-1. **Tasa de fracaso de misiones espaciales a lo largo del tiempo**: Muestra la cantidad de misiones que fracasaron por año, destacando patrones y tendencias. ![Captura](capturas_espaciales/captura(12.1).png)
-2. **Evolución del costo promedio de las misiones espaciales por año**: Visualiza cómo el costo promedio de las misiones espaciales ha cambiado a lo largo de los años. ![Captura](capturas_espaciales/captura(8).png)
-3. **Meses más populares para los lanzamientos**: Este gráfico de barras muestra los meses con mayor número de lanzamientos espaciales, identificando los meses con más actividad. ![Captura](capturas_espaciales/caputra(7.1).png)
-4. **Popularidad de los lanzamientos por mes**: Gráfico que muestra la popularidad de los lanzamientos por mes, permitiendo identificar patrones estacionales. ![Captura](capturas_espaciales/captura(11.1).png)
-
-
+## **Technical Skills**  
+- **Programming Languages**: Python, SQL  
+- **Databases**: SQL, SQLite  
+- **Visualization Tools**: Power BI, Matplotlib  
+- **Python Libraries**: sqlite3, pandas, matplotlib.pyplot  
 
 ---
 
-### 3. Visualización de Datos de Amazon
-**Descripción**: En este proyecto se analizan los datos de productos de Amazon, enfocándose en las categorías con los precios más altos, la correlación entre precio y calificación, y el rango de precios por subcategoría. El objetivo es presentar la información de manera clara a través de gráficos y análisis detallado, utilizando Python, pandas, seaborn, y Power BI para la visualización y análisis de datos.
+## **Projects**
 
-**Habilidades Demostradas**:
-- Análisis exploratorio de datos.
-- Visualización de datos para identificar patrones.
+### **1. Netflix Data Analysis**  
+**Description**: This project focuses on cleaning and analyzing a Netflix dataset. Tasks included identifying and handling missing values, removing unnecessary columns, and transforming data to facilitate analysis. Python and the pandas library were used for data manipulation.  
 
-**Capturas**:
-1. **Código de limpieza de datos y preparación para el análisis**: Limpieza y preparación de datos de Amazon para el análisis. ![Captura](capturas_amazon/captura(0).png)
-2. **Gráfico mostrando el precio promedio de los aires acondicionados y las categorías con los productos de precios más altos**: Visualiza las categorías con productos de precios elevados. ![Captura](capturas_amazon/captura_grafico(2).png)
-3. **Gráfico de correlación entre precio y calificación de los productos**: Muestra la relación entre el precio y la calificación de los productos. ![Captura](capturas_amazon/captura_powerbi(3).png)
+**Skills Demonstrated**:  
+- Data cleaning and handling missing values.  
+- Removing irrelevant columns and transforming data types.  
 
----
-
-### 4. Análisis de Ventas con SQLite
-**Descripción**: Este proyecto se basa en la manipulación y análisis de datos de ventas utilizando SQLite. Se ejecutaron consultas SQL para extraer información clave sobre ventas, productos y clientes. Los resultados se presentaron de forma estructurada para facilitar su comprensión. Además, se utilizó Python para la automatización y visualización de resultados.
-
-**Habilidades Demostradas**:
-- Consultas SQL avanzadas.
-- Automatización con Python.
-
-**Capturas**:
-1. **Creación de tablas en la base de datos de ventas**: Definición de las tablas `productos`, `clientes`, `pedidos` y `ventas` para estructurar la base de datos. ![Captura](sqlite/captura_sqlite(0).png)
-2. **Visualización de resultados clave obtenidos a partir de las consultas**: Ejecución de una consulta SQL que muestra los clientes por categoría y su total de compras, ordenados por el valor comprado. ![Captura](sqlite/captura_sqlite(3).png)
-3. **Análisis detallado de ventas por categoría de producto**: Código Python para conectar con la base de datos y visualizar las ventas mensuales por categoría. ![Captura](sqlite/captura_sqlite(5).png)
+**Screenshots**:  
+1. **Initial view of the Netflix dataset before modifications**: Displays the initial state of the dataset, including columns and some rows, to understand the starting point.  
+   ![Screenshot](capturas_netflix/Portafolio(0).png)  
+2. **Count of missing values per column**: Highlights missing data in the dataset, a crucial step for cleaning.  
+   ![Screenshot](capturas_netflix/portafoilio(1).png)  
+3. **Removed unnecessary columns and verified data types**: Shows the cleaned dataset after dropping irrelevant columns and ensuring correct data types.  
+   ![Screenshot](capturas_netflix/portafolio(2).png)  
+4. **Final cleaned DataFrame**: Dataset ready for analysis after cleaning and transformation.  
+   ![Screenshot](capturas_netflix/portafolio(6).png)  
 
 ---
 
-### 5. Análisis de Recursos Humanos
-**Descripción**: Este proyecto presenta el análisis de recursos humanos de una empresa, centrándose en la distribución de empleados según diferentes características como la región, el nivel educativo y el tipo de jornada laboral. Para la visualización de los datos se utilizó Power BI, permitiendo una interpretación interactiva y clara de la información.
+### **2. Cost Analysis of Space Missions**  
+**Description**: This project examines the cost and failure rates of space missions over time, identifying trends such as failure rates and average mission costs. It also analyzes the popularity of launches by month. Python, pandas, and matplotlib were used for analysis and visualization.  
 
-**Habilidades Demostradas**:
-- Análisis de recursos humanos utilizando gráficos interactivos.
-- Visualización de datos para la toma de decisiones en gestión de personal.
+**Skills Demonstrated**:  
+- Cost and failure trend analysis in space missions.  
+- Temporal and categorical data visualization.  
+- Interpretation of seasonal patterns in space launches.  
 
-**Capturas**:
-1. **Gráfico general mostrando la distribución de empleados por región**: Visualización de la distribución de empleados de diferentes regiones, sin aplicar ningún filtro.  
-   ![Captura](captura_PowerBI/powerbi(0).png)
+**Screenshots**:  
+1. **Failure rates over time**: Displays the annual failure rates of space missions, highlighting patterns and trends.  
+   ![Screenshot](capturas_espaciales/captura(12.1).png)  
+2. **Average mission cost over time**: Shows the evolution of average mission costs over the years.  
+   ![Screenshot](capturas_espaciales/captura(8).png)  
+3. **Popular months for launches**: Bar chart identifying months with the highest number of space launches.  
+   ![Screenshot](capturas_espaciales/caputra(7.1).png)  
 
-2. **Visualización del desglose de empleados según el tipo de jornada**: Representa el desglose de empleados según la jornada laboral que tienen, ya sea presencial, remota o combinada. 
-   ![Captura](captura_PowerBI/powerbi(1).png)
+---
 
-3. **Análisis de la distribución de empleados por nivel educativo**: Muestra cómo se distribuyen los empleados según su nivel de educación (pregrado, grado, posgrado), con el filtro aplicado al departamento de Recursos Humanos.
-   ![Captura](captura_PowerBI/powerbi(2).png)
+### **3. Amazon Data Visualization**  
+**Description**: This project analyzes Amazon product data, focusing on high-price categories, price-rating correlations, and price ranges by subcategory. Visualizations and analyses were created using Python, pandas, seaborn, and Power BI.  
+
+**Skills Demonstrated**:  
+- Exploratory data analysis.  
+- Data visualization to identify patterns.  
+
+**Screenshots**:  
+1. **Data cleaning and preparation code**: Shows the data preparation process for Amazon product analysis.  
+   ![Screenshot](capturas_amazon/captura(0).png)  
+2. **Average price by category**: Displays categories with the highest-priced products.  
+   ![Screenshot](capturas_amazon/captura_grafico(2).png)  
+3. **Price-rating correlation graph**: Highlights the relationship between price and product ratings.  
+   ![Screenshot](capturas_amazon/captura_powerbi(3).png)  
+
+---
+
+### **4. Sales Analysis with SQLite**  
+**Description**: This project involves manipulating and analyzing sales data using SQLite. SQL queries were executed to extract key information on sales, products, and customers. Python was used to automate and visualize results.  
+
+**Skills Demonstrated**:  
+- Advanced SQL queries.  
+- Python-based automation.  
+
+**Screenshots**:  
+1. **Database table creation**: Defines tables like `products`, `customers`, `orders`, and `sales`.  
+   ![Screenshot](sqlite/captura_sqlite(0).png)  
+2. **Key query results**: SQL query showing customers by category and total purchases, ordered by purchase value.  
+   ![Screenshot](sqlite/captura_sqlite(3).png)  
+3. **Detailed sales analysis by category**: Python code for monthly sales visualization by category.  
+   ![Screenshot](sqlite/captura_sqlite(5).png)  
+
+---
+
+### **5. Human Resources Analysis**  
+**Description**: This project analyzes a company's human resources data, focusing on employee distribution by characteristics such as region, education level, and work schedule type. Power BI was used for interactive and clear data visualization.  
+
+**Skills Demonstrated**:  
+- Human resources analysis using interactive charts.  
+- Data visualization for decision-making in personnel management.  
+
+**Screenshots**:  
+1. **General chart showing employee distribution by region**: Visualizes employee distribution across regions without any filters applied.  
+   ![Screenshot](captura_PowerBI/powerbi(0).png)  
+2. **Breakdown of employees by work schedule**: Represents employees' distribution across on-site, remote, or hybrid schedules.  
+   ![Screenshot](captura_PowerBI/powerbi(1).png)  
+3. **Distribution of employees by education level**: Shows employees' educational levels (undergraduate, graduate, postgraduate), filtered by the HR department.  
+   ![Screenshot](captura_PowerBI/powerbi(2).png)  
 
 
 
