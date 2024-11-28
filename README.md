@@ -22,12 +22,16 @@ Hello! I am Emilio Andrés Torres Aravena, an experienced data analyst passionat
 - Data cleaning and handling missing values.  
 - Removing irrelevant columns and transforming data types.  
 
-**Screenshots**:  
-1. **Initial view of the Netflix dataset before modifications**: Displays the initial state of the dataset, including columns and some rows, to understand the starting point.  
-   ![Screenshot](capturas_netflix/Portafolio(0).png)  
+### **Screenshots:**
 
-2. **Final Visualization of Genre Distribution**: A bar chart showcasing the distribution of genres on Netflix, summarizing the most popular categories for strategic insights.  
-   ![Screenshot](capturas_netflix/Netflix_captura.png)  
+1. **Code Workflow for Data Cleaning and Visualization**:  
+   Provides an overview of the full cleaning process, including handling null values, data transformation, and preparing the dataset for analysis.  
+   ![Screenshot](capturas_netflix/Portafolio(10).png)
+
+2. **Final Visualization of Genre Distribution**:  
+   A bar chart showcasing the distribution of genres on Netflix, summarizing the most popular categories for strategic insights.  
+   ![Screenshot](capturas_netflix/Netflix_captura.png)
+
 
 
 ---
