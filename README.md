@@ -71,7 +71,7 @@ Hello! I am Emilio Andrés Torres Aravena, an experienced data analyst passionat
 1. **Data cleaning and preparation code**: Shows the data preparation process for Amazon product analysis.  
    ![Screenshot](capturas_amazon/captura(0).png)  
 2. **Average price by category**: Displays categories with the highest-priced products.  
-   ![Screenshot](capturas_amazon/captura_grafico(2).png)  
+   ![Screenshot](capturas_amazon/captura(1).png)  
 3. **Price-rating correlation graph**: Highlights the relationship between price and product ratings.  
    ![Screenshot](capturas_amazon/captura_powerbi(3).png)  
 
